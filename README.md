@@ -1,5 +1,5 @@
 #  About Me:
-I am a first year Undergrad from India pursuing Computer<br>Engineering under University of Mumbai. Being newbie to<br>this IT world I'm looking forward to improve my skill sets<br>and contribute my learning to society.
+I am a first year Undergrad from India pursuing Computer<br>Engineering under University of Mumbai. Being newbie to<br>this IT world I'm looking forward to improve my skill sets<br>and contribute my learning to society.<br>📫Reach me ---><a href="#">piyushvbagul916@gmail.com</a>
 
 
 ##  Socials:
@@ -12,6 +12,4 @@ I am a first year Undergrad from India pursuing Computer<br>Engineering under Un
 ![](https://github-readme-streak-stats.herokuapp.com/?user=peyu5h&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=peyu5h&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=peyu5h&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
