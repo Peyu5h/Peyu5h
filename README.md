@@ -1,6 +1,6 @@
 #  About Me:
-I am a first year Undergrad from India pursuing Computer<br>Engineering under University of Mumbai. Being newbie to<br>this IT world I'm looking forward to improve my skill sets<br>and contribute my learning to society.<br>📫Reach me ---><a href="#">piyushvbagul916@gmail.com</a>
-<img align="right" alt="img" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+I am a first year Undergrad from India pursuing Computer<br>Engineering under University of Mumbai. Being newbie to<br>this IT world I'm looking forward to improve my skill sets<br>and contribute my learning to society.<br><br>📫Reach me ---><a href="#"> piyushvbagul916@gmail.com</a>
+<img align="right" alt="img" width="250" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-bagul-0579a7210) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/peyu5h_) 
