@@ -1,11 +1,7 @@
 <div class="imgs">
-<img align="right" alt="img" width="355" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+<img padding-bottom: 35px; align="right" alt="img" width="355" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 </div>
-<style>
-      .imgs{
-            padding-bottom: 35px;
-            }
-</style>
+
 # About Me:
 I am a first year Undergrad from India pursuing Computer<br>Engineering under University of Mumbai. Being newbie to<br>this IT world I'm looking forward to improve my skill sets<br>and contribute my learning to society.<br><br>📫Reach me ---><a href="#"> piyushvbagul916@gmail.com</a>
 
