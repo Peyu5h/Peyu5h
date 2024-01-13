@@ -1,4 +1,4 @@
-<h4 align="left">I'm Piyush Bagul, a second-year computer engineering student at the University of Mumbai. Currently honing my skills and knowledge in the realm of technology. Eager to take on new challenges and contribute meaningfully to the world of computer engineering.</h4>
+<h4 align="left">I'm Piyush Bagul, a second-year computer engineering student at the University of Mumbai.</h4>
 
 ###
 
