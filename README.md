@@ -1,4 +1,4 @@
-<h4 align="left">I'm Piyush Bagul, a second-year computer engineering student at the University of Mumbai.</h4>
+<h4 align="left">I'm a second-year computer engineering student at the University of Mumbai.</h4>
 
 ###
 
