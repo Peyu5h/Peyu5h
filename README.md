@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://res.cloudinary.com/dkysrpdi6/image/upload/v1717914931/portfolio/skillIcons/rust_wppgoh.png" height="30" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img src="https://res.cloudinary.com/dkysrpdi6/image/upload/v1722274582/portfolio/skillIcons/logos--react-query-icon_2_xblqne.svg" height="30" alt="figma logo"  />
 </div>
 
 ###
