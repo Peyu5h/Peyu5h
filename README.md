@@ -1,5 +1,3 @@
-<h4 align="left">I'm a third-year computer engineering student at the University of Mumbai.</h4>
-
 ###
 
 <div align="center">
